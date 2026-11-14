@@ -1,0 +1,11 @@
+db:
+  user: root
+  password: khrystyna19
+  host: 127.0.0.1
+  port: 3306
+  database: footboom_upl
+
+server:
+  host: 127.0.0.1
+  port: 5000
+  debug: true
