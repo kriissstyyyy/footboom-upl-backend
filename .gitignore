@@ -3,4 +3,6 @@ __pycache__/
 *.pyc
 .DS_Store
 .vscode/
-app/config/app.yml 
+app/config/app.yml
+.idea/
+.env
